@@ -1,0 +1,8 @@
+{
+  "name": "notes api",
+  "description": "create,add ,notes",
+  "repository": "https://github.com/nasagaurav/notesapi",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+  "keywords": ["node", "express", "heroku","react","notes"],
+  "image": "heroku/nodejs"
+}
